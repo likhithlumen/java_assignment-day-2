@@ -1,7 +1,7 @@
 //Write a Java program to copy all mappings from the specified map to another map.
 
 import java.util.*;
-public class program1
+public class program3
 {
 	public static void main(String[] agrs)
 	{
