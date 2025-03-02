@@ -1,7 +1,7 @@
 //Write a Java program to convert a hash set to an array.
 import java.util.*;
 
-public class program1
+public class program2
 {
 	public static void main(String[] args)
 	{
